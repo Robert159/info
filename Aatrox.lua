@@ -1,0 +1,2 @@
+Aatrox - Blood Prince;https://raw.githubusercontent.com/DraconisBoL/BoL/master/Aatrox%20-%20Blood%20Prince.lua;empty;empty;Aatrox - Blood Prince
+Aatrox - Mythik;https://raw.githubusercontent.com/iMythik/BoL/master/MythTrox.lua;Aatrox - Mythik;empty;empty
