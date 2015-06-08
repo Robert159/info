@@ -1,0 +1,2 @@
+Zed - BioZed Reborn;https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/BioZed%20-%20Reborn.lua;Zed - BioZed Reborn;s;s
+Zed - [Serie] Mid Master!!!;https://raw.githubusercontent.com/kokosik1221/bol/master/MidMaster.lua;s;s;Zed - [Serie] Mid Master!!!

@@ -1,0 +1,2 @@
+Corki - Big Fat;https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Corki.lua;s;s;Corki - Big Fat
+Corki - [HPred] Corki;https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Corki.lua;s;s;Corki - [HPred] Corki

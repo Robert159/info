@@ -1,0 +1,1 @@
+Yorick - The King Of Rock'n Roll;https://raw.githubusercontent.com/Jusbol/scripts/master/SimpleYorickRelease.lua;Yorick - The King Of Rock'n Roll;s;s

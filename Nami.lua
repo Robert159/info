@@ -1,0 +1,1 @@
+Nami - iSwearSheWas;https://raw.githubusercontent.com/iSwearSheWasEighteen/bol/master/iSwearSheWasNami.lua;s;s;Nami - iSwearSheWas

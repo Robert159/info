@@ -1,0 +1,1 @@
+Zyra - Fresh;https://raw.githubusercontent.com/KorFresh/BOL_SCRIPT/master/Fresh-Zyra.lua;s;s;Zyra - Fresh

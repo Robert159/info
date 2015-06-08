@@ -1,0 +1,2 @@
+Galio - Combo;http://pastebin.com/raw.php?i=sKV2HKAN;s;s;Galio - Combo
+Galio - [Serie] Mid Master!!!;https://raw.githubusercontent.com/kokosik1221/bol/master/MidMaster.lua;s;s;Galio - [Serie] Mid Master!!!

@@ -1,0 +1,1 @@
+Jax - My Real Weapon;https://raw.githubusercontent.com/qfrtt/BoL/master/Jax%20-%20My%20Real%20Weapon.lua;s;s;Jax - My Real Weapon

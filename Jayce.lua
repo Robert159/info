@@ -1,0 +1,2 @@
+Jayce - Big Fat;https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Jayce.lua;s;s;Jayce - Big Fat
+Jayce - German;https://dl.dropboxusercontent.com/s/i0dadtii14qhj3k/GermanJayce%20-%20No%20Time%20to%20Surrender%21.lua?dl=0;s;s;Jayce - German

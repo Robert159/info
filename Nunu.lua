@@ -1,0 +1,1 @@
+Nunu - SXNunu;https://raw.githubusercontent.com/syraxtepper/bolscripts/master/SXNunu;s;s;Nunu - SXNunu

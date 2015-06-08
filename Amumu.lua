@@ -1,0 +1,1 @@
+Amumu - Master Of Sadness;https://raw.githubusercontent.com/SebastianBar/MasterOfSadness/master/MasterOfSadness.lua;Amumu - Master Of Sadness;s;s

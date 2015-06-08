@@ -1,0 +1,1 @@
+[Semi-bot] Jungler Slack;https://dl.dropboxusercontent.com/s/ge3lrjf8dk8vv67/Jungler%20Slack.lua?dl=0;s;s;[Semi-bot] Jungler Slack

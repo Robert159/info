@@ -1,0 +1,2 @@
+XingZhao - the Seneschal of Demacia;https://raw.githubusercontent.com/INEEDBEER/BoL/master/Xin%20Zhao%20-%20By%20INEEDBEER.lua;s;s;XingZhao - the Seneschal of Demacia
+XingZhao - Free elo shower;https://raw.githubusercontent.com/AlfonsCasanova/BoL/master/CasanovaZhao.lua;s;s;XingZhao - Free elo shower

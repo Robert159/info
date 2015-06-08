@@ -1,0 +1,2 @@
+Talon - Simple;https://raw.githubusercontent.com/ConnorMccG/BoLScripts/master/SimpleTalon.lua;s;s;Talon - Simple
+Talon - Assassin AiO;https://raw.githubusercontent.com/jachicao/BoL/master/iAIO.lua;s;s;Talon - Assassin AiO

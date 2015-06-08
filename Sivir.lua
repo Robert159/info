@@ -1,0 +1,1 @@
+Sivir - Fantastik;https://raw.githubusercontent.com/BoLFantastik/BoL/master/Fantastik%20Sivir.lua;s;s;Sivir - Fantastik

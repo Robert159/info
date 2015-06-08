@@ -1,0 +1,1 @@
+MalzaharSX;https://raw.githubusercontent.com/syraxtepper/bolscripts/master/SXMalzahar;MalzaharSX;s;s

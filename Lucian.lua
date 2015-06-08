@@ -1,0 +1,2 @@
+Lucian - RapidFire;https://raw.githubusercontent.com/Jaikor/BoL/master/RapidFireJKLucian.lua;s;s;Lucian - RapidFire
+Lucian - The Carrier;https://raw.githubusercontent.com/SilentStar/BoLScripts/master/Lucian%20-%20The%20Carrier.lua;s;s;Lucian - The Carrier

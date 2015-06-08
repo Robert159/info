@@ -1,0 +1,2 @@
+Tryndamere - Totally;https://raw.githubusercontent.com/Nickieboy/BoL/master/TotallyTryndamere.lua;s;s;Tryndamere - Totally
+Tryndamere - FukDa;http://pastebin.com/raw.php?i=JQM08JTZ;s;s;Tryndamere - FukDa

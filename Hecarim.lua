@@ -1,0 +1,2 @@
+Hecarim - The Shadow Of War;https://raw.githubusercontent.com/Jaikor/BoL/master/SidasAutoCarryPlugin%20-%20Hecarim.lua;s;s;Hecarim - The Shadow Of War
+Hecarim - SAC;http://pastebin.com/raw.php?i=AQWaWQGx;s;s;Hecarim - SAC

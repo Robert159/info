@@ -1,0 +1,1 @@
+Yi - Stannis Baratheon;https://raw.githubusercontent.com/Lillgoalie/BoL/master/Master%20Yi%20-%20Stannis%20Baratheon.lua;s;s;Yi - Stannis Baratheon

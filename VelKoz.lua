@@ -1,0 +1,2 @@
+Velkoz - Angles and Lasers;https://raw.githubusercontent.com/RalphLeague/BoL/master/Velkoz.lua;Velkoz - Angles and Lasers;s;s
+Velkoz - Big Fat;https://raw.githubusercontent.com/boXseven/Big-Fat-Crack/master/Big%20Fat%20Velkoz.lua;Velkoz - Big Fat;s;s

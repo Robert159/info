@@ -1,0 +1,1 @@
+Kassadin - The Void;https://raw.githubusercontent.com/MuMuHay/BoL-Script/master/The%20Void%20-%20Kassadin.lua;s;s;Kassadin - The Void

@@ -1,0 +1,2 @@
+Lux - Big Fat;https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Lux.lua;s;s;Lux - Big Fat
+Lux - [Serie] Mid Master!!!;https://raw.githubusercontent.com/kokosik1221/bol/master/MidMaster.lua;s;s;Lux - [Serie] Mid Master!!!

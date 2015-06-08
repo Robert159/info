@@ -1,0 +1,2 @@
+Twisted Fate - The Pokerman;https://raw.githubusercontent.com/SilentStar/BoLScripts/master/Twisted%20Fate%20-%20The%20Pokerman.lua;Twisted Fate - The Pokerman;s;s
+Twisted Fate - Clarity;http://pastebin.com/raw.php?i=sdgznRRC;s;s;Twisted Fate - Clarity

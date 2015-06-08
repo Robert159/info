@@ -1,0 +1,1 @@
+Jannas - Big Fat Assistant;https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Janna%27s%20Assistant.lua;s;s;Jannas - Big Fat Assistant

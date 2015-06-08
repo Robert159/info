@@ -1,0 +1,3 @@
+Ahri - Sexy Mistress;https://raw.githubusercontent.com/Feez/BoL-Paid/master/AhriSexyMistress.lua;empty;Ahri - Sexy Mistress;empty
+Ahri - Challenger;https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/Challenger%20-%20Ahri.lua;Ahri - Challenger;empty;empty
+Ahri - [Serie]Mid Master!!!;https://raw.githubusercontent.com/kokosik1221/bol/master/MidMaster.lua;empty;empty;Ahri - [Serie]Mid Master!!!
