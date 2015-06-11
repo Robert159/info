@@ -1,0 +1,1 @@
+Malphiterino;https://raw.githubusercontent.com/cttbot/ScriptsBoL/master/Malphiterino.lua;s;s;Malphiterino
