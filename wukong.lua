@@ -1,0 +1,1 @@
+wukongD2;https://raw.githubusercontent.com/dd2repo/BoL/master/d2wukong.lua;s;s;wukongD2
