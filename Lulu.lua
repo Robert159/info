@@ -1,1 +1,2 @@
 Lulu - [Serie] Support Master!!!;https://raw.githubusercontent.com/kokosik1221/bol/master/SupportMaster.lua;s;s;Lulu - [Serie] Support Master!!!
+Lulu- BigFat;https://raw.githubusercontent.com/boXseven/Big-Fat-Crack/master/Big%20Fat%20Lulu.lua;s;Lulu- BigFat;s
