@@ -1,1 +1,1 @@
-Trundle - Fun House;https://dl.dropboxusercontent.com/s/7xpcspxeb4608sk/Fun%20House%20Loader.lua?dl=0;s;Trundle - Fun House;s
+Trundle - Fun House;http://www.funhouse.me/download.ashx;s;Trundle - Fun House;s
