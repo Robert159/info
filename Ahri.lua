@@ -1,2 +1,3 @@
 Ahri - Sexy Mistress;https://raw.githubusercontent.com/Feez/BoL-Paid/master/AhriSexyMistress.lua;empty;Ahri - Sexy Mistress;empty
 Ahri - [Serie]Mid Master!!!;https://raw.githubusercontent.com/kokosik1221/bol/master/MidMaster.lua;empty;empty;Ahri - [Serie]Mid Master!!!
+Ahri - Challenger Reborn;https://raw.githubusercontent.com/boXseven/Cracked/master/Challenger%20Ahri%20Reborn.lua;s;Ahri - Challenger Reborn;s
